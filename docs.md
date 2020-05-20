@@ -4,6 +4,12 @@
 )](https://github.com/iampawan/VelocityX)
 
 [![Versioning](https://badgen.net/badge/Version/^0.4.0/purple)](https://pub.dev/packages/velocity_x)
+| Features |
+| ------ |
+|Shimmer Effect |
+| HeightBox |
+| Transforms |
+
 ## Shimmer Effect
 For Shimmer effect you can use as simply as we are adding text 
 
