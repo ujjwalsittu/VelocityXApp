@@ -29,25 +29,41 @@ It is ease way to use sizedbox in short code, where you enter height first then 
 # Opacity
 > We can use this keyword in any widget with a dot operator 
 - Usage :-
->> for 0 % Visibility
+> for 0 % Visibility
 ```sh 
+.opacity0,
+
+sample:-
 "Text Here".text.make().opacity0,
 ````
->> for 25 % Visibility
+> for 25 % Visibility
 ```sh 
+.opacity25,
+
+sample:-
 "Text Here".text.make().opacity25,
 ````
->> for 50 % Visibility
+> for 50 % Visibility
 ```sh 
+.opacity50,
+
+sample:-
 "Text Here".text.make().opacity50,
 ````
  
->> for 75 % Visibility
+> for 75 % Visibility
 ```sh
+.opacity75,
+
+sample:-
 "Text Here".text.make().opacity75,
+
 ````
->> for 100 % Visibility
+> for 100 % Visibility
 ```sh
+.opacity100,
+
+sample:-
 "Text Here".text.make().opacity100,
 ````
    
